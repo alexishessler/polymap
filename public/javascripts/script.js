@@ -18,6 +18,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // L.marker([48.858370, 2.294481]).addTo(mymap).bindPopup('La Tour Eiffel');
 
 var idCoords = document.getElementById('coords');
+console.log(idCoords)
 var dataCoords = idCoords.dataset.coords;
 
 var coordsArray = dataCoords.split(',');
