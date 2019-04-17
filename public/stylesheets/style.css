@@ -1,0 +1,25 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #353A3F;
+  color: #FFFFFF;
+  padding-top: 20px;
+}
+
+
+#cityForm {
+  margin-bottom: 50px;
+  margin: auto;
+  width: 300px;
+  height: 100px;
+}
+
+#worldmap {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  height: 500px;
+  border-radius: 10px;
+}
+
+.displaymap {
+  margin-top: 40px;
+}
